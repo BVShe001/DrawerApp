@@ -10,6 +10,19 @@
 /captures
 .externalNativeBuild
 
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/codeStyles/
+.idea/mosc
+.idea/misc.xml
+.idea/runConfigurations.xml
+README
+docs
+libs/
+sample/
+.idea/gradle.xml
+
+
 # Built application files
 *.apk
 *.ap_
@@ -75,4 +88,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
 
